@@ -60,7 +60,7 @@
   display: flex;
   align-items: center;
   margin-top: 40px;
-  background: var(--primaryColor);
+  background: var(--primary-color);
   transition: 400ms;
   color: white;
 }
